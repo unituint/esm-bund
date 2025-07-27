@@ -1,7 +1,7 @@
 # esm-bund
 
 Minimal ES module bundler with recursive import inlining and Babel transpilation.  
-No plugins. Just Node.js, regex, and Babel.
+Node.js, regex, and Babel.
 
 ---
 
